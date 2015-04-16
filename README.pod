@@ -58,8 +58,3 @@ or to make it last between reboots:
    /etc/init.d/procps restart
 
 =cut
-
-1;
-__END__
-
-=cut
