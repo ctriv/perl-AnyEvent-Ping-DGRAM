@@ -107,7 +107,5 @@ or to make it last between reboots:
 
 =cut
 
-=cut
-
 1;
 __END__
